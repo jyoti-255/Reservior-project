@@ -1,1 +1,1 @@
-web: python manage.py runserver 0.0.0.0:$PORT
+web: python BE_project/P1_project manage.py runserver 0.0.0.0:$PORT
